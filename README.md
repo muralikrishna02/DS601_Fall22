@@ -1,5 +1,5 @@
 # DATA 601: Introduction to Data Science
-## Spring 2022
+## Fall 2022
 ## Class
 
   For DATA 601-02 (2249):
@@ -50,7 +50,7 @@ Please see https://docs.google.com/document/d/1xWWGAR8qEzKYr7qaVHoEhvO6lyXIyn6M3
 
 ## Github Repository
 
-I will use https://github.com/msaricaumbc/DS601_Spring22 as our course webpage. You can check this page for updates and important information related to the course.
+I will use https://github.com/msaricaumbc/DS601_Fall22 as our course webpage. You can check this page for updates and important information related to the course.
 
 ## Textbooks
 
